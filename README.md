@@ -1,12 +1,12 @@
 # Descriptive Analysis of Labour Shortage in the Food industry in the United States
 ## Value Added per worker in Agriculture
-![Raw Data from CSV](raw_data_1.PNG "Raw Data ")
+![Raw Data from CSV](/images/raw_data_1.PNG "Raw Data ")
 ## Value Added in the Agriculture sector as of GDP verses GDP per capita
-![Raw Data from CSV](raw_data_2.PNG "Raw Data ")
+![Raw Data from CSV](/images/raw_data_2.PNG "Raw Data ")
 ## Number of people employed in Agriculture
-![Raw Data from CSV](raw_data_3.PNG "Raw Data ")
+![Raw Data from CSV](/images/raw_data_3.PNG "Raw Data ")
 ## Dasboard in Excel
-![Dashboard](dashboard_2019.PNG "Raw Data")
+![Dashboard](/images/dashboard_2019.PNG "Raw Data")
 
 ## Key Take Aways
 - Fewer people are employed in Agriculture in the United States.
